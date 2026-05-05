@@ -7,8 +7,8 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eslam-mostafa-27a617238/)
-* 🌍 Portfolio: [Your Portfolio](https://github.com/EsLaM260)
+* 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/eslam-mostafa-27a617238/)
+* 🌍 Portfolio: [My Portfolio](https://github.com/EsLaM260)
 
 ---
 
