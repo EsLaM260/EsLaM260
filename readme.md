@@ -7,8 +7,8 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_LINK)
-* 🌍 Portfolio: [Your Portfolio](https://your-portfolio-link.com)
+* 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eslam-mostafa-27a617238/)
+* 🌍 Portfolio: [Your Portfolio](https://github.com/EsLaM260)
 
 ---
 
@@ -63,13 +63,6 @@ I have strong hands-on experience in both frontend and backend development, and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🎯 Current Focus
 
